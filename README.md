@@ -1,5 +1,5 @@
 <h1 align='center'>WELCOME!</h1>
-<h1 align='center'>Estudo diversos projetos e linguagens envolvendo engenharia de software e Banco de Dados. Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas. A tecnologia e tudo que se ramifica através dela me fascinam!</h1>
+<h1 align='center'>Estudo diversos projetos e linguagens, atualmente estou focando em lapidar o meu conhecimento em DevOps e engenharia de software. Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas. A tecnologia e tudo que se ramifica através dela me fascinam!</h1>
 
 ## Skills
 
