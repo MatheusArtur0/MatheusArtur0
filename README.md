@@ -1,5 +1,5 @@
 <h1 align='center'>WELCOME!</h1>
-<h1 align='center'>I study different projects and languages, currently focusing on improving my knowledge in DevOps and software engineering. I am passionate about learning new things and passing on my knowledge to other people. Technology and everything that comes with it fascinates me!</h1>
+<h1 align='center'>I study different projects and languages, currently focusing on improving my knowledge in DevOps and Data Engineering. I am passionate about learning new things and passing on my knowledge to other people. Technology and everything that comes with it fascinates me!</h1>
 
 ## Skills
 
