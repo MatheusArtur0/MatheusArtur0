@@ -12,7 +12,7 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-## main languages
+## Main languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusArtur0&langs_count=8&theme=dark)
 
 ## Status
