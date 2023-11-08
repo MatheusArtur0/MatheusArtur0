@@ -1,5 +1,5 @@
 <h1 align='center'>WELCOME!</h1>
-<h1 align='center'>Estudo diversos projetos e linguagens, atualmente estou focando em lapidar o meu conhecimento em DevOps e engenharia de software. Sou apaixonado por aprender coisas novas e passar meus conhecimentos para outras pessoas. A tecnologia e tudo que se ramifica através dela me fascinam!</h1>
+<h1 align='center'>I study different projects and languages, currently focusing on improving my knowledge in DevOps and software engineering. I am passionate about learning new things and passing on my knowledge to other people. Technology and everything that comes with it fascinates me!</h1>
 
 ## Skills
 
@@ -12,15 +12,15 @@
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
-## Principais Linguagens
+## main languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusArtur0&langs_count=8&theme=dark)
 
 ## Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusArtur0&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Repositórios Principais
+## Main repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=repositorio-teste&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Conheça meu trabalho em outras redes...
+## Social
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkeDin' height='30'>](https://www.linkedin.com/in/matheus-silva-119712216/)
 
