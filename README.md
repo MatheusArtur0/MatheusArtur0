@@ -1,4 +1,4 @@
-<igm src="Imagens/a5d1aa64258877.5acc981dc702.gif">
+![](Imagens/a5d1aa64258877.5acc981dc702.gif)
 
 
 <h1 align='center'>WELCOME!</h1>
