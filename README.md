@@ -1,8 +1,8 @@
-<h1 align='center'>WELCOME!</h1>
-<h1 align='center'>I study different projects and languages, currently focusing on improving my knowledge in DevOps and Data Engineering. I am passionate about learning new things and passing on my knowledge to other people. Technology and everything that comes with it fascinates me!</h1>
+<h1 align='center'>HI!!</h1>
+<h3 align='center'>I study different projects and languages, currently focusing on improving my knowledge in DevOps and Data Engineering. I am passionate about learning new things and passing on my knowledge to other people. Technology and everything that comes with it fascinates me!</h3>
 
 <div align='center'>
-  <h1 align='center'>SKILLS</h1>
+  <h2 align='center'>Skills</h2>
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,20 +15,20 @@
 </div>
 
 <div align='center'>
-  <h1>STATS</h1>
+  <h2>Status</h2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusArtur0&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusArtur0&layout=compact&theme=tokyonight"/>
 </div>
 
 <div align='center'>
-  <h1>MAIN REPOSITORIES</h1>
+  <h2>Mains repositories</h2>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=trilha-python&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=tropicaliaproject&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=DecolaTech&theme=tokyonight"/>
 </div>
 
 <div align='center'>
-  <h1>SOCIAL</h1>
+  <h2>Social</h2>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-119712216/)
