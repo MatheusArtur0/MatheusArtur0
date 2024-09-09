@@ -35,3 +35,4 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheussilva-ft8vj)
 
 
+![snake_gif](https://github.com/MatheusArtur0/MatheusArtur0/blob/output/github-contribution-grid-snake-dark.svg)
