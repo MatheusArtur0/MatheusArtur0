@@ -34,5 +34,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-119712216/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheussilva-ft8vj)
 
-
-![snake_gif](https://github.com/MatheusArtur0/MatheusArtur0/blob/output/github-contribution-grid-snake-dark.svg)
