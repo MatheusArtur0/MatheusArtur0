@@ -24,7 +24,7 @@
   <h2>Main repositories</h2>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=trilha-python&theme=tokyonight"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=tropicaliaproject&theme=tokyonight"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=DecolaTech&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusArtur0&repo=reactproject&theme=tokyonight"/>
 </div>
 
 <div align='center'>
